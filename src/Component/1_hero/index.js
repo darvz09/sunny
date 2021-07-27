@@ -16,7 +16,7 @@ const Hero = () => {
             <Container>
                     <HeroWrap>
                         <TextWrap>
-                            <p>WE ARE CREATIVES darvs</p>
+                            <p>WE ARE CREATIVES</p>
                         </TextWrap>
                         <IconWrap>
                             <ArrowIcon src={arrow} alt="" />
