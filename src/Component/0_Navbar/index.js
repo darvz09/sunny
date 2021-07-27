@@ -35,7 +35,7 @@ const Nav = () => {
             <Navbar scrollNav={scrollNav}>
                     <NavWrap>
                         <NavBrand>
-                            sunnyside updated
+                            sunnyside
                         </NavBrand>
                     <MobileIcon onClick={handleClick}>
                         {click ? <FaTimes /> : <FaBars />}
